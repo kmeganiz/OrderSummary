@@ -17,7 +17,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg
+(https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg)
 
 ### Links
 

@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+html {
+    box-sizing: border-box;
+}
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+.attribution { 
+    font-size: 11px; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.box {
+    border-radius: 10px;
+    background-color: hsl(225, 100%, 98%);
+    padding: 5% auto 5% auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+}
+
+.box img {
+    width: 10%;
+    height: 10%;
+    margin: 15px;
+}
+
+.btn {
+    border-radius: 10px;
+    background-color: hsl(245, 75%, 52%);
+    padding: 5% auto 5% auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+.btn:hover {
+    color: yellow;
+    box-shadow: 10px 10px;
+}
+
+.change:hover {
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%);
+}
+
+.cancel:hover {
+    color: hsl(245, 75%, 52%);
+    font-weight: 700;
+}
+
+@media (min-width: 1440px) {
+    body.OrderSum {
+        background-image: url(../images/pattern-background-desktop.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: hsl(225, 100%, 94%);
+    }
+}
+
+@media (min-width: 375px) {
+    body.OrderSum {
+        background-image: url(../images/pattern-background-mobile.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: hsl(225, 100%, 94%);
+    }
+}

@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot_mobile_1440x900_after.jpg?)
+![](./Screenshot_mobile_1440x900_after.jpg)
 
 ### Links
 

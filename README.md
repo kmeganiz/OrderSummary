@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-Hi this is my first time doing challenge from front end mentor. Nervous and anxiety at beginning.
+Hi this is my first time doing challenge from front end mentor. Nervous and anxiety at beginning :grinning:
 
 ### The challenge
 
@@ -17,7 +17,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-(https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg)
+![This is the screenshot](https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg)
 
 ### Links
 
@@ -53,7 +53,7 @@ Realize we can make the background repeat in X - index
 
 ### Continued development
 
-I still see that between the image and the card there is a thin white line before the shadow there. Anyone can help me how to remove that?
+I still see that between the image and the card there is a thin white line before the shadow there. Anyone can help me how to remove that? :pleading_face:
 
 ### Useful resources
 

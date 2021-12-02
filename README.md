@@ -10,14 +10,17 @@ Hi this is my first time doing challenge from front end mentor. Nervous and anxi
 
 My challenge is to build out this order summary card component and get it looking as close to the design as possible.
 
-I can use any tools I like to help me complete the challenge (great) 
+I can use any tools I like to help me complete the challenge :smiling_face_with_three_hearts:
 
 Users should be able to:
 
 - See hover states for interactive elements
 
 ### Screenshot
-![This is the screenshot](https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg)
+![This is the screenshot for desktop](https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg)
+
+![This is the screenshot for mobile](https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_mobile_375x667_after.jpg)
+
 
 ### Links
 

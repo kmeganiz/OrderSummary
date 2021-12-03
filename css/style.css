@@ -40,7 +40,7 @@ body {
 .box img {
     width: 10%;
     height: 10%;
-    margin: 15px;
+    margin: auto;
 }
 
 .btn {
@@ -62,11 +62,16 @@ body {
 
 .btn:hover {
     color: yellow;
-    background-color: hsl(223, 47%, 23%)
+    background-color: hsl(223, 47%, 23%);
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
 }
 
 .change {
     text-decoration: underline;
+}
+
+.cancel {
+    text-decoration: none;
 }
 
 .change:hover {
@@ -77,6 +82,7 @@ body {
 .cancel:hover {
     color: hsl(245, 75%, 52%);
     font-weight: 700;
+    text-decoration: none;
 }
 
 body {
@@ -88,7 +94,7 @@ body {
     overflow-x: hidden;
 }
 
-h6 {
+p {
     line-height: 1;
 }
 

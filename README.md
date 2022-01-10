@@ -69,3 +69,7 @@ I still see that between the image and the card there is a thin white line befor
 - Frontend Mentor - [kmeganiz](https://www.frontendmentor.io/profile/kmeganiz)
 - Twitter - [@kmeganiz](https://www.twitter.com/kmeganiz)
 - LinkedIn - [kmeganiz](https://www.linkedin.com/in/kmeganiz/)
+
+## License
+
+This project is [licensed under the terms of the MIT license.](https://github.com/kmeganiz/OrderSummary/blob/main/LICENSE)

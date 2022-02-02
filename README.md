@@ -42,7 +42,7 @@ I am aiming to be good in bootstrap so I thought of not invent the new wheel and
   First I built I have struggle in making the round at the top, and middle the Annual Plan and price have a lot of gap, after I saw others post of their finished work then I learn how the did it. Can see my screenshot before and after at my github: https://github.com/kmeganiz/OrderSummary
 
 
-To see how you can add code snippets, see below:
+This code save me:
 
 ```html
     <div class="row justify-content-center mt-5">

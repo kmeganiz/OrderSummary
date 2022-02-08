@@ -19,9 +19,6 @@ Users should be able to:
 ### Screenshot
 ![This is the screenshot for desktop](https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_desktop_1440x900_after.jpg)
 
-![This is the screenshot for mobile](https://github.com/kmeganiz/OrderSummary/blob/main/Screenshot_mobile_375x667_after.jpg)
-
-
 ### Links
 
 - Solution URL: https://github.com/kmeganiz/OrderSummary
